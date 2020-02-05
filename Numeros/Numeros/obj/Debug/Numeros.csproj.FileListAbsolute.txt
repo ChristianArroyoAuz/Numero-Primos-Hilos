@@ -1,0 +1,7 @@
+C:\Users\Christian Arroyo\Desktop\Reivax\Numeros\Numeros\bin\Debug\Numeros.exe.config
+C:\Users\Christian Arroyo\Desktop\Reivax\Numeros\Numeros\bin\Debug\Numeros.exe
+C:\Users\Christian Arroyo\Desktop\Reivax\Numeros\Numeros\bin\Debug\Numeros.pdb
+C:\Users\Christian Arroyo\Desktop\Reivax\Numeros\Numeros\obj\Debug\Numeros.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Reivax\Numeros\Numeros\obj\Debug\Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Reivax\Numeros\Numeros\obj\Debug\Numeros.exe
+C:\Users\Christian Arroyo\Desktop\Reivax\Numeros\Numeros\obj\Debug\Numeros.pdb
