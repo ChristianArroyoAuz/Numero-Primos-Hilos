@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Threading;
 using System.Linq;
@@ -33,27 +33,6 @@ namespace Numeros
             Console.ReadKey();
         }
 
-        static void Primos()
-        {
-            int contador = 0;
-            for (int i = -100; i <= -2; i++)
-            {
-                for (int j = -100; j <= -1; j++)
-                {
-                    if (i % j == 0)
-                    {
-                        contador = contador + 1;
-                    }
-                }
-                if (contador == 2)
-                {
-                    Thread.Sleep(TimeSpan.FromSeconds(0.1));
-                    Console.WriteLine(i);
-                }
-                contador = 0;
-            }
-        }
-
         static void MultiplosSiete()
         {
             for (int i = -100; i < 0; i++)
@@ -75,6 +54,27 @@ namespace Numeros
                     Thread.Sleep(TimeSpan.FromSeconds(0.1));
                     Console.WriteLine(i);
                 }
+            }
+        }
+
+        static void Primos()
+        {
+            int contador = 0;
+            for (int i = -100; i <= -2; i++)
+            {
+                for (int j = -100; j <= -1; j++)
+                {
+                    if (i % j == 0)
+                    {
+                        contador = contador + 1;
+                    }
+                }
+                if (contador == 2)
+                {
+                    Thread.Sleep(TimeSpan.FromSeconds(0.1));
+                    Console.WriteLine(i);
+                }
+                contador = 0;
             }
         }
     }
